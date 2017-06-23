@@ -1,4 +1,4 @@
-# NeuralDotNet
+# NeuronDotNet
 
 ## Why?
 I wanted to play with neural network in Unity and that was the only library I found that I could make it work with Unity.
@@ -12,6 +12,12 @@ https://sourceforge.net/projects/neurondotnet/
 I just had to refactor some data structures to use the ones available in the .Net 2.0 SubSet.
 I think I made some additions to the library so that I could call certain methods in the Unity game loop.
 
+## Usage Examples
+I have some Unity projects using this library:  
+https://github.com/tiagosomda/NeuralGames
+
+### How to include in your Unity project?
+Just download the library, build it, copy and past the output dll (NeuronDotNet.Core.dll) into the Assets/Library folder in your Unity project.
 
 ## Why not other libraries?
 I am sure there are ways to run TensorFlow, CNTK, AForge.Net in Unity, but I haven't had time to explore these paths...  
