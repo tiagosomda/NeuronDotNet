@@ -80,6 +80,7 @@ namespace NeuronDotNet.Core.Backpropagation
         public double Bias
         {
             get { return bias; }
+            set { bias = value; }
         }
 
         /// <summary>

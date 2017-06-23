@@ -18,7 +18,6 @@
 ***********************************************************************************************/
 
 using System;
-using System.Drawing;
 using System.Runtime.Serialization;
 using NeuronDotNet.Core.SOM.NeighborhoodFunctions;
 

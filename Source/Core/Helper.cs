@@ -263,4 +263,28 @@ namespace NeuronDotNet.Core
             return Normalize(result, magnitude);
         }
     }
+
+    public class Size
+    {
+        public int Width;
+        public int Height;
+
+
+        public Size(int height, int width)
+        {
+            Height = height;
+            Width = width;
+        }
+    }
+
+    public class Point
+    {
+        public int X;
+        public int Y;
+        public Point(int _x, int _y)
+        {
+            X = _x;
+            Y = _y;
+        }
+    }
 }
