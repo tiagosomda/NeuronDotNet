@@ -26,7 +26,7 @@ The only thing close to a documentation right now are the examples and the sourc
 ## Why not other libraries?
 I am sure there are ways to run TensorFlow, CNTK, AForge.Net in Unity, but I haven't had time to explore these paths...  
 
-LEt me know if you do know how to use other (more recent or better supported) libraries :)  
+Let me know if you do know how to use other (more recent or better supported) libraries :)  
 
 CNTK: https://github.com/Microsoft/CNTK   
 TensorFlow: https://www.tensorflow.org/  
