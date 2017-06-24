@@ -18,7 +18,10 @@ I have some Unity projects using this library:
 https://github.com/tiagosomda/NeuralGames
 
 ### How to include in your Unity project?
-Just download the library, build it, copy and past the output dll (NeuronDotNet.Core.dll) into the Assets/Library folder in your Unity project.
+Just download the library, build it, copy/paste the output dll (NeuronDotNet.Core.dll) under the Assets/Library folder in your Unity project. Call the library as you would with any other class.
+
+### Documentation
+The only thing close to a documentation right now are the examples and the source code itself.
 
 ## Why not other libraries?
 I am sure there are ways to run TensorFlow, CNTK, AForge.Net in Unity, but I haven't had time to explore these paths...  
