@@ -5,8 +5,9 @@ I wanted to play with neural network in Unity and that was the only library I fo
 
 ## What?
 This is a neural network library that work in Unity.  
-The original source code is located at sourceforge.net, but it looks like it has not been touch since 2008. - However, it seems to work!
-https://sourceforge.net/projects/neurondotnet/
+The original source code is located at sourceforge.net, but it looks like it has not been touch since 2008.  
+However, it seems to work!  
+Original Source : https://sourceforge.net/projects/neurondotnet/
 
 ## How?
 I just had to refactor some data structures to use the ones available in the .Net 2.0 SubSet.
